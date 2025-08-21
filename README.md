@@ -5,7 +5,7 @@ This project is part of my portfolio to showcase skills in **frontend developmen
 
 ---
 <!-- Dito natin ilalagay ang lahat ng screenshots -->
-![Products Page]([https://github.com/aglucazgeorgeann-ship-it/personal-website/blob/main/mypesonalwebsite3.jpg](https://raw.githubusercontent.com/aglucazgeorgeann-ship-it/lovechat/refs/heads/main/lovechat1.jpg)?raw=true)
+![Products Page]([https://github.com/aglucazgeorgeann-ship-it/personal-website/blob/main/mypesonalwebsite3.jpg](https://raw.githubusercontent.com/aglucazgeorgeann-ship-it/lovechat/refs/heads/main/lovechat1.jpg?raw=true)
 
 (https://github.com/aglucazgeorgeann-ship-it/lovechat/blob/main/lovechat1.jpg?raw=true)
 
