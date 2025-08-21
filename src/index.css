@@ -1,0 +1,11 @@
+/* src/index.css - Tailwind v4 imports */
+@import "tailwindcss";
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+@import "tailwindcss/theme";
+
+/* fallback if imports fail, try these instead:
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*/
