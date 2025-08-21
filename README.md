@@ -4,6 +4,8 @@ A simple and modern **chat app UI** built with **Vite + React + Tailwind CSS v4*
 This project is part of my portfolio to showcase skills in **frontend development** and deployment using **Netlify**.
 
 ---
+<!-- Dito natin ilalagay ang lahat ng screenshots -->
+![Products Page]([https://github.com/aglucazgeorgeann-ship-it/personal-website/blob/main/mypesonalwebsite3.jpg?raw=true](https://github.com/aglucazgeorgeann-ship-it/lovechat/blob/main/lovechat1.jpg?raw=true)
 
 ## 🚀 Live Demo
 🔗 [LoveChat App](https://lovechat432.netlify.app)
